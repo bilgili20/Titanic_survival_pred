@@ -16,12 +16,12 @@ Titanic-Logistic-Regression/
 ├── data/
 │   ├── train.csv                
 │
-├── notebooks/
-│   └── Titanic_Logistic_Regression.ipynb   # Data analysis and model code
+├── notebook/
+│   └── Titanic_Comp.ipynb   # Data analysis and model code
 │
 ├── requirements.txt      # Required libraries
 ├── README.md             # Project details
-└── .gitignore            # Files ignored by Git
+
 ```
 
 ##  Technologies Used
