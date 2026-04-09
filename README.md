@@ -1,6 +1,6 @@
 # Titanic_survival_pred
 This project contains a Machine Learning model developed using Kaggle's famous "Titanic: Machine Learning from Disaster" dataset. The main goal of the project is to predict whether passengers survived (Survived) using the Logistic Regression algorithm.
-## 🚀 Project Overview
+##  Project Overview
 
 - Exploratory Data Analysis (EDA) and visualization
 - Handling Missing Data
@@ -8,7 +8,7 @@ This project contains a Machine Learning model developed using Kaggle's famous "
 - Training and testing the Logistic Regression model
 - Evaluating model performance (Accuracy, Confusion Matrix, Classification Report)
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 Titanic-Logistic-Regression/
@@ -24,9 +24,9 @@ Titanic-Logistic-Regression/
 └── .gitignore            # Files ignored by Git
 ```
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
-- Python 3.x
+- Python
 - Pandas & NumPy (Data manipulation)
 - Matplotlib & Seaborn (Data visualization)
 - Scikit-Learn (Machine learning models and evaluation)
